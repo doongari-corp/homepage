@@ -2,6 +2,8 @@
 
 AI 기반 애니메이션 뮤직비디오 제작 스튜디오 — 둥가리 코퍼레이션의 온보딩 페이지입니다.
 
+🔗 **사이트**: https://doongari-corp.github.io/homepage/
+
 ## 기술 스택
 
 - React + Vite

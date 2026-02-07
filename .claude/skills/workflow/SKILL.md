@@ -2,7 +2,7 @@
 name: workflow
 description: Git feature workflow — pull latest main, create branch, implement feature, make PR, return to original branch
 argument-hint: "[branch-name] [feature-description]"
-disable-model-invocation: true
+disable-model-invocation: false
 allowed-tools:
   - Bash(git *)
   - Bash(gh pr create *)
